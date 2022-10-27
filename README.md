@@ -1,1 +1,7 @@
-# action-segmentation-visualizer
+# Action Segmentation Visualizer
+
+## Setup
+
+
+## Usage
+

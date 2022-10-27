@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+.mypy_cache
+.coverage*
+.pytest_cache
+.venv
