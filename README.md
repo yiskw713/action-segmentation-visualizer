@@ -20,7 +20,7 @@ from vis_action_seg import visualize
 action_list = [0, 0, 0, 0, 1, 1, 1, 1, 1]
 
 visualize(
-    action_list
+    action_list,
     save_path="./sample.png",  # if `save_path` is given, the image will be saved there.
     image_height=100,  # the height of output image.
 )
